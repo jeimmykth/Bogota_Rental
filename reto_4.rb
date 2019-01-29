@@ -9,4 +9,3 @@ elsif numero>=12 && numero<=24
     
 else 
     puts "incorrecto la hora no corresponde"
-end
